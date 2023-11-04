@@ -1,0 +1,23 @@
+.formbtn {
+    background-color: red;
+    color: white;
+    font-size: large;
+    width: 130px;
+    height: 40px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 1px #FF8787;
+    border: 1px solid red;
+
+}
+
+.foodip {
+    width: 75%;
+    padding: 1%;
+    justify-content: center;
+    margin: 3%;
+    margin-left: 4.5%;
+    border-radius: 50px;
+    border: 2px solid gray;
+    
+}
+

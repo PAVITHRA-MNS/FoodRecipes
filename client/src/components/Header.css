@@ -1,0 +1,11 @@
+.head {
+    background-color: red;
+    color: white;
+    font-style: italic;
+    margin-left: 25px;
+}
+
+.header {
+    background-color: red;
+    padding: 0.002%;
+}
